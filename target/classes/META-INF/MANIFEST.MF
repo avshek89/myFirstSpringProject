@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: myFirstSpringProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Abhishek
+Implementation-Vendor-Id: myFirstSpringProject
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/myFirstSpringProject
+Created-By: Maven Integration for Eclipse
+
